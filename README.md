@@ -1,1 +1,12 @@
 # my-youtube
+## Author
+
+- [@Karan-Bharti1](https://github.com/Karan-Bharti1)
+
+
+
+
+
+## 🚀 About Me
+Hi there! 👋.
+I am currently learning Full Stack Web Development with a focus on the MERN stack (MongoDB, Express.js, React, and Node.js). I'm passionate about building dynamic, user-friendly web applications and continuously improving my skills.
