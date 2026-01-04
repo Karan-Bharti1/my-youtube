@@ -3,7 +3,13 @@
 
 - [@Karan-Bharti1](https://github.com/Karan-Bharti1)
 
+## 🧱 Tech Stack
 
+- **React.js + Vite** (Frontend Framework)
+- **Redux Toolkit** (State Management)
+- **React Router DOM** (Routing)
+- **Axios** (API Handling)
+- **Tailwind CSS** (Styling)
 
 
 
