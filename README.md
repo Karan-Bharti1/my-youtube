@@ -1,7 +1,7 @@
 # my-youtube
 ## Author
 
-- [@Karan-Bharti1](https://github.com/Karan-Bharti1)
+- [Github](https://github.com/Karan-Bharti1)
 
 ## 🧱 Tech Stack
 
